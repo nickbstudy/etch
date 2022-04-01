@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    border: 1px solid black;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    border: none;
+}
+
+#sketch  {
+    background-color: blanchedalmond;
+}
